@@ -1,0 +1,15 @@
+{
+  "title": "",
+  "id": 0,
+  "tale": "",
+  "modifiers": {
+    "thirst": 20
+  },
+  "scene": 0,
+  "spawnPos": [ 0, 0, 0 ],
+  "nextQuestsAdress": [
+    "assets/questlines/eat.json",
+    "assets/questlines/drink.json",
+    "assets/questlines/univer.json"
+  ]
+}

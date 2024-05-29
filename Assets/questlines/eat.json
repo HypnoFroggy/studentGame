@@ -1,0 +1,17 @@
+{
+  "title": "Eat",
+  "id": 0,
+  "tale": "Where is my hog?!",
+  "modifiers": {
+    "thirst": -10,
+    "hunger": 40,
+    "time": 1800,
+    "happiness": 25
+  },
+  "scene": 0,
+  "spawnPos": [ -5.47, -8.14, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/drink.json",
+    "./Assets/questlines/univer.json"
+  ]
+}
