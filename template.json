@@ -1,0 +1,19 @@
+{
+  "title": "Спать",
+  "id": 0,
+  "tale": "Заколебался. Пойду посплю.",
+  "modifiers": {
+    "thirst": -20,
+    "hunger": -30,
+    "time": 28800,
+    "happiness": 5,
+    "lastSleep": 0
+  },
+  "scene": 0,
+  "spawnPos": [ -30, 30, 10 ],
+  "nextQuestsAdress": [
+    "assets/quests/eat.json",
+    "assets/quests/drink.json",
+    "assets/quests/univer.json"
+  ]
+}
