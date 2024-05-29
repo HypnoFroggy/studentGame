@@ -84,7 +84,6 @@ public class QuestHandler : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E))
         {
-            Debug.Log($"log: {id} {title}");
             ShowTale();
             foreach (var modName in modifiers.Keys)
             {
