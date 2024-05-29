@@ -1,0 +1,16 @@
+{
+  "title": "Shower",
+  "id": 10,
+  "tale": "Now I need to take a shower. Kinda forgot how it feels",
+  "modifiers": {
+    "thirst": -5,
+    "hunger": -5,
+    "time": 1500,
+    "happiness": 10
+  },
+  "scene": 0,
+  "spawnPos": [ -4.04, -8.08, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/eat.json"
+  ]
+}

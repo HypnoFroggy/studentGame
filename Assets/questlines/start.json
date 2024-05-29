@@ -10,6 +10,6 @@
   "nextQuestsAdress": [
     "assets/questlines/eat.json",
     "assets/questlines/drink.json",
-    "assets/questlines/univer.json"
+    "assets/questlines/univer.json", "assets/questlines/tea.json", "assets/questlines/scrolling.json", "assets/questlines/sleep.json", "assets/questlines/exam.json"
   ]
 }

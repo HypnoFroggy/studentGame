@@ -1,0 +1,16 @@
+{
+  "title": "Talking to a friend",
+  "id": 8,
+  "tale": "Wassup! Haven't seen you for a while, I thought you were expelled",
+  "modifiers": {
+    "thirst": -5,
+    "hunger": -5,
+    "time": 1800,
+    "happiness": 20
+  },
+  "scene": 0,
+  "spawnPos": [ -6.45, -1.17, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/cockroach.json", "./Assets/questlines/shower.json", "./Assets/questlines/eat.json"
+  ]
+}

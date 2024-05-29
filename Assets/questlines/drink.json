@@ -1,6 +1,6 @@
 {
   "title": "Drink",
-  "id": 1,
+  "id": 2,
   "tale": "Damn heat. Why i'm not in Oymyakon now?",
   "modifiers": {
     "thirst": 40,
@@ -11,6 +11,8 @@
   "scene": 0,
   "spawnPos": [ -3.41, -8.11, 0.04 ],
   "nextQuestsAdress": [
-    "./Assets/questlines/univer.json"
+    "./Assets/questlines/univer.json", "./Assets/questlines/tea.json", "./Assets/questlines/scrolling.json",
+    "./Assets/questlines/sleep.json", "./Assets/questlines/exam.json"
+
   ]
 }

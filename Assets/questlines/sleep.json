@@ -1,0 +1,16 @@
+{
+  "title": "Sleep",
+  "id": 6,
+  "tale": "Finally, I can have a rest",
+  "modifiers": {
+    "thirst": -15,
+    "hunger": -15,
+    "time": 28800,
+    "happiness": 40
+  },
+  "scene": 0,
+  "spawnPos": [ 0.01, 0.04, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/exam.json"
+  ]
+}

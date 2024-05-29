@@ -1,0 +1,16 @@
+{
+  "title": "Scrolling",
+  "id": 5,
+  "tale": "Just for a minute...",
+  "modifiers": {
+    "thirst": -10,
+    "hunger": -10,
+    "time": 5400,
+    "happiness": 10
+  },
+  "scene": 0,
+  "spawnPos": [ -1.41, -1.41, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/sleep.json", "./Assets/questlines/exam.json"
+  ]
+}

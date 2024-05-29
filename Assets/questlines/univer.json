@@ -1,6 +1,6 @@
 {
   "title": "Univer",
-  "id": 2,
+  "id": 3,
   "tale": "Work again",
   "modifiers": {
     "thirst": -30,
@@ -11,6 +11,8 @@
   "scene": 0,
   "spawnPos": [ -6.45, -1.17, 0.04 ],
   "nextQuestsAdress": [
-    "./Assets/questlines/eat.json"
+    "./Assets/questlines/tea.json", "./Assets/questlines/scrolling.json",
+    "./Assets/questlines/sleep.json", "./Assets/questlines/exam.json"
+
   ]
 }

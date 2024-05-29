@@ -1,0 +1,16 @@
+{
+  "title": "Tea",
+  "id": 4,
+  "tale": "Tea with Tula prianiks time!",
+  "modifiers": {
+    "thirst": 30,
+    "hunger": 7,
+    "time": 420,
+    "happiness": 10
+  },
+  "scene": 0,
+  "spawnPos": [ -3.41, -8.16, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/scrolling.json", "./Assets/questlines/sleep.json", "./Assets/questlines/exam.json"
+  ]
+}

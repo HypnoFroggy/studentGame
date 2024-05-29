@@ -1,0 +1,16 @@
+{
+  "title": "Exam",
+  "id": 7,
+  "tale": "Here we go again",
+  "modifiers": {
+    "thirst": -15,
+    "hunger": -15,
+    "time": 5700,
+    "happiness": -10
+  },
+  "scene": 0,
+  "spawnPos": [ -6.41, -1.11, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/talking.json", "./Assets/questlines/cockroach.json", "./Assets/questlines/shower.json", "./Assets/questlines/eat.json"
+  ]
+}

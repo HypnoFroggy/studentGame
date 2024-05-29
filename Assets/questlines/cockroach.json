@@ -1,0 +1,16 @@
+{
+  "title": "Seing a cockroach",
+  "id": 9,
+  "tale": "Ahhh... Hi pretty!",
+  "modifiers": {
+    "thirst": -5,
+    "hunger": -10,
+    "time": 60,
+    "happiness": 0
+  },
+  "scene": 0,
+  "spawnPos": [ -5.41, -0.11, 0.04 ],
+  "nextQuestsAdress": [
+    "./Assets/questlines/shower.json", "./Assets/questlines/eat.json"
+  ]
+}
